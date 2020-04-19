@@ -69,3 +69,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+Follow the below steps to run this project :
+
+1) Download and unzip to xampp/htdocs
+2) Run "composer install" on the directory
+3) Set a VirtualHost on xampp for this project
+4) Create a db table, set db values in .env file and migrate using "php artisan migrate"
