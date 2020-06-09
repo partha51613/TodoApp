@@ -69,3 +69,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+*******************************************************************************************************************************
+
+## Project Installation
+
+1. Make a new database with the name "todoapp"
+2. Set the db name in .env file
+3. Run "composer update" on the root directory
+4. Run "php artisan serve"
+
+Note : Also run Apache and MYSQL on Xampp.
