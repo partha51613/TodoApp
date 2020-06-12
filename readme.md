@@ -17,5 +17,9 @@
 
 Note : Also run Apache and MYSQL on Xampp.
 
+## Screenshot
+
+<a href='https://postimg.cc/4KNyGknr' target='_blank'><img src='https://i.postimg.cc/4KNyGknr/Low-B-i-ZSiqm-kki7f9tsg.png' border='0' alt='Low-B-i-ZSiqm-kki7f9tsg'/></a>
+
 
 ## Demo can be viewed at https://todoapp-laravel1.herokuapp.com/
